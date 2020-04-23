@@ -22,3 +22,4 @@
 ## Device Picture
 
 ![Xiaomi RedmiK20 Pro/ MI 9T PRO](https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k20pro-.jpg "Xiaomi RedmiK20 Pro/ MI 9T PRO")
+# Device_Raphael
